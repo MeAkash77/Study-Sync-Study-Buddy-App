@@ -123,7 +123,7 @@ To get started with **StudySync**, you can follow the setup instructions below. 
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/hoangsonww/StudySync-Study-Buddy-App.git
+   git clone https://github.com/MeAkash77/Study-Sync-Study-Buddy-App.git
    cd StudySync-Study-Buddy-App
    ```
 2. **Set up the backend**:
@@ -374,17 +374,3 @@ docker compose up --build
 ```
 
 This command will build the Docker images for the backend and frontend and run the containers. You can access the app at `http://localhost:8081` after the containers are up and running.
-
-## The Creator
-
-- [Son Nguyen](https://github.com/hoangsonww)
-- [Email](mailto:hoangson091104@gmail.com)
-- [LinkedIn](https://www.linkedin.com/in/hoangsonw/)
-
----
-
-We hope you enjoy using **StudySync**! For any issues or feature requests, feel free to open an issue on the repository. Happy studying! 📚🚀
-
----
-
-[Back to top](#studysync---a-productivity-and-study-companion-app)
