@@ -2,35 +2,6 @@
 
 Welcome to **StudySync**! StudySync is a productivity and study tool designed to help users stay organized and efficient, built with **Vue and Express**. It includes a variety of features such as Pomodoro timers, music recommendations, weather checks, flashcards, to-do lists, and AI chat assistance. It integrates third-party services like Spotify for music and OpenWeather for weather data.
 
-## Table of Contents
-
-- [Features](#features)
-- [Live Deployment](#live-deployment)
-- [UI Screenshots](#ui-screenshots)
-  - [Home Page (Dashboard)](#home-page-dashboard)
-  - [Tools List](#tools-list)
-  - [Login Page](#login-page)
-  - [Register Page](#register-page)
-  - [Profile Page](#profile-page)
-  - [404 Page](#404-page)
-  - [Footer](#footer)
-- [Tech Stack](#tech-stack)
-  - [Frontend](#frontend)
-  - [Backend](#backend)
-  - [DevOps & Deployment](#devops--deployment)
-- [Getting Started](#getting-started)
-- [File Structure](#file-structure)
-- [API Documentation](#api-documentation)
-  - [Table of API Endpoints](#table-of-api-endpoints)
-  - [Backend Swagger Documentation](#backend-swagger-documentation)
-  - [OpenAPI Specification](#openapi-specification)
-  - [Example of calling the Music Recommendation API](#example-of-calling-the-music-recommendation-api)
-  - [Authentication](#authentication)
-- [NGINX Configuration](#nginx-configuration)
-- [Docker Configuration](#docker-configuration)
-  - [Building the Docker Containers](#building-the-docker-containers)
-- [The Creator](#the-creator)
-
 ## Features
 
 - **Pomodoro Timer**: A built-in timer for Pomodoro study sessions.
@@ -50,9 +21,7 @@ Welcome to **StudySync**! StudySync is a productivity and study tool designed to
 
 ## Live Deployment
 
-The app is currently live at [https://study-sync-app.vercel.app/](https://study-sync-app.vercel.app/). You can explore the various features and functionalities of the app, including the Pomodoro timer, music recommendations, weather checks, and AI chat assistance.
-
-The backend API is hosted on Render at [https://studysync-study-buddy-app.onrender.com](https://studysync-study-buddy-app.onrender.com/). The frontend is hosted on Vercel and communicates with the backend API for data retrieval and storage.
+The app is currently live at [https://akash77-study-sync-study-buddy-app.vercel.app/landing](https://akash77-study-sync-study-buddy-app.vercel.app/landing). You can explore the various features and functionalities of the app, including the Pomodoro timer, music recommendations, weather checks, and AI chat assistance.
 
 > **Note**: The app may take a while to spin up, which means it may take 2-3 minutes (max) to load the backend logic. This is due to Render's free tier resource limit, where we are only allocated 0.1 CPU and 512MB RAM. Thank you for your understanding!
 
@@ -61,10 +30,6 @@ The backend API is hosted on Render at [https://studysync-study-buddy-app.onrend
 Here are some placeholder UI images for the app:
 
 ### Home Page (Dashboard)
-
-<p align="center">
- <img src="img/home_ui.png" alt="Home Page UI" width="100%">
-</p>
 
 ### Tools List
 
