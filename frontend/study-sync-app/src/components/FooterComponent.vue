@@ -9,7 +9,7 @@
         <!-- Social Media Icons -->
         <v-col cols="12" md="6" class="text-center footer-icons">
           <a
-            href="https://github.com/hoangsonww"
+            href="https://github.com/MeAkash77"
             target="_blank"
             class="footer-icon-link"
           >
@@ -17,7 +17,7 @@
             <!-- GitHub Icon -->
           </a>
           <a
-            href="https://sonnguyenhoang.com"
+            href="iakshu845@gmail.com"
             target="_blank"
             class="footer-icon-link"
           >
@@ -25,7 +25,7 @@
             <!-- Website Icon -->
           </a>
           <a
-            href="mailto:hoangson091104@gmail.com"
+            href="iakshu845@gmail.com"
             target="_blank"
             class="footer-icon-link"
           >
@@ -33,7 +33,7 @@
             <!-- Email Icon -->
           </a>
           <a
-            href="https://www.linkedin.com/in/hoangsonw"
+            href="https://www.linkedin.com/in/me-akash77/"
             target="_blank"
             class="footer-icon-link"
           >
