@@ -32,7 +32,7 @@ Here are some placeholder UI images for the app:
 ### Home Page (Dashboard)
 
 <p align="center">
-    <img src="<img width="947" alt="Image" src="https://github.com/user-attachments/assets/ec0aa820-b92d-4739-ba67-28c1b33935d5" />" width="100%">
+   <img width="947" alt="Image" src="https://github.com/user-attachments/assets/ec0aa820-b92d-4739-ba67-28c1b33935d5" />
 </p>
 
 
