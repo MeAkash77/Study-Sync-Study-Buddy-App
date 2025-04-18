@@ -62,15 +62,11 @@ Here are some placeholder UI images for the app:
 
 ### Forgot Password Page
 
-<p align="center">
-    <img src="img/forgot_ui.png" alt="Forgot Password UI" width="100%">
-</p>
+<img width="959" alt="Image" src="https://github.com/user-attachments/assets/b76a64e2-1c0c-4951-817d-b854a00b22bb" />
 
 ### Profile Page
 
-<p align="center">
-    <img src="img/profile_ui.png" alt="Profile Page UI" width="100%">
-</p>
+<img width="947" alt="Image" src="https://github.com/user-attachments/assets/1fc4a267-aa8b-4719-a66f-d75a3c2a7f6e" />
 
 ### 404 Page
 
