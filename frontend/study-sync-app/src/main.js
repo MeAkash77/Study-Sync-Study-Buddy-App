@@ -19,12 +19,16 @@ import { loadFonts } from "./plugins/webfontloader";
 // Import Material Design Icons
 import "@mdi/font/css/materialdesignicons.css";
 
-// Load custom fonts
+// Load fonts (Roboto, Material Icons)
 loadFonts();
 
-// Create and mount the Vue app
-createApp(App)
-  .use(router)
-  .use(store)
-  .use(vuetify)
-  .mount("#app");
+// Create Vue app instance
+const app = createApp(App);
+
+// Apply global plugins
+app.use(router);
+app.use(store);
+app.use(vuetify);
+
+// Mount the app to the #app div in public/index.html
+app.mount("#app");
