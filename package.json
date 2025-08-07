@@ -42,5 +42,8 @@
     "prettier": "^3.3.3",
     "swagger-jsdoc": "^6.2.8",
     "swagger-ui-express": "^5.0.1"
+  },
+  "devDependencies": {
+    "vue-template-compiler": "^2.6.14"
   }
 }
